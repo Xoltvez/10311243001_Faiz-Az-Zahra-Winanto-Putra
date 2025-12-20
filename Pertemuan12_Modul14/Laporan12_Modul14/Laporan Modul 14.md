@@ -1,7 +1,7 @@
 
 # <h1 align="center">Laporan Praktikum Modul 14 -Graph</h1>
 
-<p align="center">Faiz Az-Zahra Winanto Putra - 10311243001</p>
+<p align="center">Faiz Az-Zahra Winanto Putra - 103112430001</p>
 
 ## Dasar Teori
 
